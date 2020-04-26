@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772994193492",
+    "firebase_url": "https://hollup123.firebaseio.com",
+    "project_id": "hollup123",
+    "storage_bucket": "hollup123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772994193492:android:16f216e9c0df53efa475c1",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772994193492-n4pp559gd715hnlgk10ho9v2gdg58nm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cO54sbxN8AThsUoLfDPBu0VkOwiB2PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772994193492-n4pp559gd715hnlgk10ho9v2gdg58nm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
